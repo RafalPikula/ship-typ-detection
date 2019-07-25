@@ -17,4 +17,4 @@ In the first part we used the VGG16 convolutional part (we set the layers in thi
 
 In the second part we again used the VGG16 convolutional part (but this time with its last 13 layers set to be trainable) and we attached the fully connected layers trained in the first part which were also set to be trainable. Such a setup aims at taking advantage of already attuned fully connected layers in order to fine-tune the made-trainable convolutional layers. As before, we used data augmentation and precomputed class weights. After the model finished training we selected two most promising versions from different epochs and combined them into the final model (as described in the last notebook). 
 
-This final model achieved the score of about 0.9627 on the public leaderboard, however, its official, private leaderboard score was approximately 0.9570.
+This final model achieved the score of about 0.9627 on the public leaderboard – an improvement of about 5% with respect to the base model – however, its official, private leaderboard score was approximately 0.9570.
