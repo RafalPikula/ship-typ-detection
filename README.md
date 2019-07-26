@@ -1,5 +1,5 @@
 # Ship Type Detection
-This project summarizes the outcome of taking part in the computer vision competition organized by Analytics Vidhya (under the name Game of Deep Learning) in which the participants were to determine the type of a ship (out of 5 different ship types) given solely its photograph. It is evident that this competition was all about a multi-class classification problem.
+This project summarizes the outcome of taking part in a computer vision competition organized by Analytics Vidhya (under the name Game of Deep Learning) in which the participants were to determine the type of a ship (out of 5 different ship types) given solely its photograph. It is evident that this competition was all about a multi-class classification problem.
 
 Here is the link to the competition website: https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/#problem_statement.
 
